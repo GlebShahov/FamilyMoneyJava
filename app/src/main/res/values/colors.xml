@@ -10,6 +10,12 @@
     <color name="colorPrimary">#3574fa</color>
     <color name="colorPrimaryDark">#224AA3</color>
     <color name="colorAccent">#3574fa</color>
+
     <color name="btn_enabled">#7ed321</color>
     <color name="btn_disabled">#BABCBB</color>
+
+    <color name="medium_grey">#666664</color>
+    <color name="dark_sky_blue">#4a90e2</color>
+
+    <color name="gray_A700">#9C9B9B</color>
     </resources>
